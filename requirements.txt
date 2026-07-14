@@ -1,0 +1,9 @@
+pip freeze > requirements.txt
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+scikit-learn==1.5.1
+pydantic
+requests
